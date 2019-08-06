@@ -1,5 +1,6 @@
 # 技术日志
-## JavaScript基础分析
+## JavaScript基础
+## JavaScript猎奇
 ## JavaScript编程实践
 ## Java编程
 ## 前端杂谈
@@ -10,6 +11,8 @@
 ## VUE
 ## Angular
 ## TypeScript
+## Flutter
+## Golang
 ## 常用开源类库探究
 ## 前端工程化
 ## 网络通信
